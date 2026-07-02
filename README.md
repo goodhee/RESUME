@@ -1,6 +1,6 @@
 # 조은희
 
-[📧 joeun2ce@gmail.com](mailto:joeun2ce@gmail.com) | [🌐 linkedin.com/in/likehee](https://www.linkedin.com/in/likehee) | [💻 github.com/aug6th](https://github.com/aug6th)
+[📧 goodhee.dev@gmail.com](mailto:goodhee.dev@gmail.com) | [🌐 linkedin.com/in/goodhee](https://www.linkedin.com/in/goodhee) | [💻 github.com/goodhee](https://github.com/goodhee)
 
 ## 스킬
 
@@ -61,7 +61,7 @@
 
 ---
 
-지인분의 평가는 [Pull Request](https://github.com/aug6th/RESUME/pulls) 로 받고있습니다.  
+지인분의 평가는 [Pull Request](https://github.com/goodhee/RESUME/pulls) 로 받고있습니다.  
 또는 익명으로 남기고 싶다면 [스펙터(Specter)](https://www.specter.co.kr/) 에서 평판을 남겨주세요.
 
 ---
@@ -71,5 +71,5 @@
 <!--
 ## References
 - https://github.com/JSpiner/RESUME
-- https://github.com/aug6th/RESUME
+- https://github.com/goodhee/RESUME
 -->
