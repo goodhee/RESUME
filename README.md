@@ -55,6 +55,10 @@
 #### [안재영](https://github.com/ababqw123)(개발자, [Infofla Inc.](https://infofla.com/))
 > 새로운 것을 계속 배우기 위해 노력하며, 다른 동료에게도 많은 조언을 해주는 사람입니다.
 
+#### [설덕주](https://github.com/AHASull)(AI 팀 리드, [아하앤컴퍼니](https://www.a-ha.io/))
+> 팀으로 함께 일할 수 있어 고마웠고, 인연이 닿는다면 다시 한번 같이 일하고 싶은 사람입니다. 
+
+
 ### 익명
 
 [스펙터(Specter)](https://www.specter.co.kr/) 에도 이전에 함께 일했던 동료들이 익명으로 남긴 평판이 일부 등록되어 있습니다. 
