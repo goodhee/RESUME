@@ -24,7 +24,7 @@
 
 ## 오픈소스 기여
 
-- **NVIDIA/SkillSpector**
+- **NVIDIA/SkillSpector**  
   [번들에 없는 파일 참조로 인해 안전한 스킬이 설치 불가로 판정된 오탐 수정](https://github.com/NVIDIA/SkillSpector/pull/526)
 
 - **kubernetes/kubernetes, kubernetes/test-infra**  
