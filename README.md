@@ -13,7 +13,8 @@
 
 ## 경력
 
-- [아하앤컴퍼니](https://www.a-ha.io/) - MLOps Engineer (2025.10 ~ 지금)
+- [삼성서울병원](https://www.samsunghospital.com/) - Security Engineer (2026.08 ~ 지금)
+- [아하앤컴퍼니](https://www.a-ha.io/) - MLOps Engineer (2025.10 ~ 2026.07)
 - [인포플라](https://www.infofla.com/) - AIOps Engineer (2025.4 ~ 2025.10)
 - [안랩](https://www.ahnlab.com/) - S/W Engineer (2019.9 ~ 2023.7)
 
@@ -22,6 +23,9 @@
 - [파운더스 2019](https://www.decenter.kr/NewsView/1VGLKLN4T2/GZ02)
 
 ## 오픈소스 기여
+
+- **NVIDIA/SkillSpector**
+  [번들에 없는 파일 참조로 인해 안전한 스킬이 설치 불가로 판정된 오탐 수정](https://github.com/NVIDIA/SkillSpector/pull/526)
 
 - **kubernetes/kubernetes, kubernetes/test-infra**  
   [Kubernetes 테스트 인프라 개선: e2e 테스트 suit의 중복 feature label 제거 및 beta feature gate 전환에 따른 불필요 CI job 삭제](https://github.com/kubernetes/kubernetes/pull/134303) ([test-infra#35613](https://github.com/kubernetes/test-infra/pull/35613))
